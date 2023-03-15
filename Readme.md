@@ -2,7 +2,23 @@
 
 This is a template for a small model inference API.
 
-# Usage
+## Installation
+
+To install the Sculpture package, run the following command in your terminal:
+
+```shell
+pip install culpture
+```
+
+Alternatively, you can clone the GitHub repository and install the package from source:
+
+```shell
+git clone https://github.com/xianyuntang/sculpture.git
+cd sculpture
+pip install .
+```
+
+## Usage
 
 To use this template, follow these steps:
 
