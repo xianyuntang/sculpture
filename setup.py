@@ -14,7 +14,7 @@ setuptools.setup(
     description="A small model api template",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/xianyuntang/sculpture",
     packages=setuptools.find_packages(),
     install_requires=requires,
     classifiers=[
